@@ -1,0 +1,9 @@
+@use "./theme" as *;
+
+@use "bootstrap/scss/bootstrap" with (
+  $theme-colors: $theme-colors,
+  $font-sizes: $font-sizes,
+  $grid-breakpoints: $grid-breakpoints,
+  $border-widths: $border-widths,
+  $utilities: $custom-utilities // 👈 inject your custom utilities here
+);

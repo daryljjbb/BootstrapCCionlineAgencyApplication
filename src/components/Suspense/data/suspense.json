@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Missing Document",
+    "customer": "John Doe",
+    "dueDate": "2025-07-15",
+    "status": "open",
+    "notes": "Policy AUTO-001 needs proof of address."
+  },
+  {
+    "id": 2,
+    "title": "Follow-up Required",
+    "customer": "Jane Smith",
+    "dueDate": "2025-07-20",
+    "status": "open",
+    "notes": "Pending call back for renewal discussion."
+  },
+  {
+  "id": 99,
+  "title": "Badge Test",
+  "customer": "Dev Debug",
+  "dueDate": "2025-07-12", 
+  "status": "open",
+  "notes": "This should trigger 'Due Today'."
+}
+]

@@ -1,0 +1,73 @@
+
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "111-222-3333",
+    "address": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "zipCode": "90210"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phone": "456-789-0123",
+    "address": "456 Oak Ave",
+    "city": "Otherville",
+    "state": "NY",
+    "zipCode": "10001"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "phone": "777-888-9999",
+    "address": "789 Pine Ln",
+    "city": "Smalltown",
+    "state": "LA",
+    "zipCode": "70001"
+  },
+  {
+    "id": 4,
+    "name": "Alice Brown",
+    "email": "alice.brown@example.com",
+    "phone": "222-333-4444",
+    "address": "101 Elm Blvd",
+    "city": "Metropolis",
+    "state": "TX",
+    "zipCode": "75001"
+  },
+  {
+    "id": 5,
+    "name": "Charlie Davis",
+    "email": "charlie.davis@example.com",
+    "phone": "555-666-7777",
+    "address": "202 Birch Ct",
+    "city": "Villageton",
+    "state": "FL",
+    "zipCode": "33101"
+  },
+  {
+    "id": 6,
+    "name": "David Lee",
+    "email": "david.lee@example.com",
+    "phone": "123-456-7890",
+    "address": "303 Cedar Dr",
+    "city": "Big City",
+    "state": "GA",
+    "zipCode": "30303"
+  },
+  {
+    "id": 7,
+    "name": "Emily Chen",
+    "email": "emily.c@example.com",
+    "phone": "987-654-3210",
+    "address": "404 Willow Way",
+    "city": "Tech Town",
+    "state": "WA",
+    "zipCode": "98101"
+  }
+]

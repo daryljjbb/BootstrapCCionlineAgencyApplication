@@ -1,0 +1,79 @@
+[
+  {
+    "id": 101,
+    "policyNumber": "AUTO-001-2024",
+    "customerId": 1,
+    "type": "Auto",
+    "status": "Active",
+    "premium": 1200.00,
+    "startDate": "2024-01-01",
+    "endDate": "2025-01-01",
+    "description": "Comprehensive auto insurance for John Doe."
+  },
+  {
+    "id": 102,
+    "policyNumber": "HOME-002-2024",
+    "customerId": 2,
+    "type": "Home",
+    "status": "Active",
+    "premium": 850.50,
+    "startDate": "2024-03-15",
+    "endDate": "2025-03-15",
+    "description": "Standard homeowner's policy for Jane Smith."
+  },
+  {
+    "id": 103,
+    "policyNumber": "LIFE-003-2023",
+    "customerId": 3,
+    "type": "Life",
+    "status": "Inactive",
+    "premium": 50.00,
+    "startDate": "2023-07-01",
+    "endDate": "2024-07-01",
+    "description": "Term life insurance for Bob Johnson (expired)."
+  },
+  {
+    "id": 104,
+    "policyNumber": "AUTO-004-2024",
+    "customerId": 4,
+    "type": "Auto",
+    "status": "Pending",
+    "premium": 1100.00,
+    "startDate": "2024-08-01",
+    "endDate": "2025-08-01",
+    "description": "New auto insurance application for Alice Brown."
+  },
+  {
+    "id": 105,
+    "policyNumber": "HOME-005-2023",
+    "customerId": 5,
+    "type": "Home",
+    "status": "Active",
+    "premium": 980.75,
+    "startDate": "2023-11-20",
+    "endDate": "2024-11-20",
+    "description": "Homeowner's policy for Charlie Davis."
+  },
+  {
+    "id": 106,
+    "policyNumber": "LIFE-006-2024",
+    "customerId": 1,
+    "type": "Life",
+    "status": "Active",
+    "premium": 75.00,
+    "startDate": "2024-06-01",
+    "endDate": "2025-06-01",
+    "description": "Another life insurance policy for John Doe."
+  },
+  {
+    "id": 107,
+    "policyNumber": "COMM-007-2024",
+    "customerId": 6,
+    "type": "Commercial",
+    "status": "Active",
+    "premium": 2500.00,
+    "startDate": "2024-02-01",
+    "endDate": "2025-02-01",
+    "description": "Commercial general liability for David Lee's business."
+  }
+]
