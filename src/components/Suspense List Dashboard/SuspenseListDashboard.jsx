@@ -26,7 +26,7 @@ const cardVariants = {
                         <div className="card-body">
                             <div className="list-group">
                                 {/* Corrected spacing for icons with ms-auto, and adjusted classes for active state look */}
-                                <button type="button" className="list-group-item list-group-item-action rounded-pill d-flex justify-content-between align-items-center mb-2 active" aria-current="true">
+                                <button type="button" className="list-group-item list-group-item-action rounded-pill d-flex justify-content-between align-items-center mb-2 active text-danger" aria-current="true">
                                     Suspense 1
                                     <i className="bi bi-folder2-open ms-auto"></i> 
                                 </button>
