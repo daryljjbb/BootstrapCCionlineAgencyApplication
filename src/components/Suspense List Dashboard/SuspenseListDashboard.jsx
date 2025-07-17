@@ -22,7 +22,7 @@ const cardVariants = {
         <>
             <div className="row">
                 <motion.div className="col-md-12"variants={cardVariants}>
-                    <GlassCard icon="🗓" title="Suspenses" className="mb-4 shadow-royal" animated>
+                    <GlassCard icon="🗓" title="Suspense Items" className="mb-4 shadow-royal" animated>
                         <div className="card-body">
                             <div className="list-group">
                                 {/* Corrected spacing for icons with ms-auto, and adjusted classes for active state look */}
